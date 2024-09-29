@@ -1,0 +1,22 @@
+.pinkiepie {
+  background-color: #f18093;
+  font-family: Verdana, DejaVu Sans, sans-serif;
+}
+#secondE {
+  color: #0000ff;
+  
+  font-size: 36px;
+}
+.fuente24 {
+  font-size: 24px;
+}
+#cuarto {
+  background-color: hwb(120 24% 16%);
+  font-weight: strong;
+}
+/* 
+Todos los elementos con números impares : un fondo rojo/rosa claro y una lista de fuentes que contienen Verdana y DejaVu Sans con sans-serif como respaldo
+El segundo elemento : texto azul y un tamaño de fuente de 36 px.
+El tercer elemento : además de los estilos para todos los elementos impares, agregue un tamaño de fuente de 24 px
+El cuarto elemento : un fondo verde claro, un tamaño de fuente de 24 px y negrita.
+*/
