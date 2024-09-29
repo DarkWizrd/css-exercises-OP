@@ -1,0 +1,20 @@
+.fnts {
+  font-size: 50px;
+  font-family: Helvetica, "Times New Roman", Times, serif;
+}
+.btn1 {
+  background-color:#000;
+  color:#ffffff;
+}
+.btn2 {
+  background-color: yellow;
+}
+
+/*
+
+El primer elemento : un fondo negro y texto blanco.
+El segundo elemento : un fondo amarillo
+
+Ambos elementos : un tamaño de fuente de 28 px y una lista de fuentes que contiene Helvetica y Times New Roman, con sans-serif como alternativa
+
+*/
