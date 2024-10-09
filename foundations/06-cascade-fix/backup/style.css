@@ -1,0 +1,47 @@
+/*
+Este último ejercicio de Fundamentos de CSS le permitirá conocer más de cerca la cascada, en particular la especificidad y el orden de las reglas. Tanto los archivos HTML como los CSS se completan automáticamente, por lo que, en lugar de agregar reglas usted mismo, simplemente editará lo que se le proporcione.
+
+Hay algunos elementos que tienen algún tipo de problema de especificidad o de orden de reglas en el archivo CSS proporcionado. Depende de usted determinar qué problema está afectando a un elemento y cómo solucionarlo. Puede editar el archivo CSS agregando, eliminando o editando selectores para un bloque de declaración, o moviendo bloques de declaración. **No debe editar el archivo HTML ni ninguno de los estilos reales en el archivo CSS .** 
+*/
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.para,
+.small-para {
+  color: hsl(0, 0%, 0%);
+  font-weight: 800;
+}
+
+.small-para {
+  font-size: 14px;
+  font-weight: 800;
+}
+
+.para {
+  font-size: 22px;
+}
+
+.confirm {
+  background: green;
+  color: white;
+  font-weight: bold;
+} 
+
+.button {
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+}
+
+.child {
+  color: rgb(0, 0, 0);
+  font-weight: 800;
+  font-size: 14px;
+}
+
+div.text {
+  color: rgb(0, 0, 0);
+  font-size: 22px;
+  font-weight: 100;
+}
