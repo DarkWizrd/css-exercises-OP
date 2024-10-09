@@ -12,7 +12,7 @@ Los problemas con la cascada pueden ser la pesadilla de muchos cuando se trata d
 
 ![resultado deseado](./desired-outcome.png)
 
-### Autoevaluacion
+### Autoevaluación
 
-- Did you make sure to not edit the HTML file?
-- If you added selectors to the CSS, do they target a valid HTML element?
+- ¿Te aseguraste de no editar el archivo HTML?
+- Si agregó selectores al CSS, ¿apuntan a un elemento HTML válido?
